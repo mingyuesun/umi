@@ -11,6 +11,5 @@ function Profile() {
   );
 }
 
-// Profile.wrappers = ['@/wrappers/auth']
 Profile.wrappers = ['@/wrappers/auth']
 export default Profile
